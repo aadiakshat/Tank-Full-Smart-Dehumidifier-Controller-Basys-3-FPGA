@@ -29,3 +29,4 @@ sim.out
 *.toc
 *.synctex.gz
 report.pdf
+report.tex
