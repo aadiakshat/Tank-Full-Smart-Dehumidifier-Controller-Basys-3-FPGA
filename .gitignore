@@ -1,0 +1,31 @@
+# Vivado generated files
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.jou
+*.log
+*.str
+*.dcp
+*.bit
+*.ltx
+
+# Simulator output
+xsim.dir/
+sim.out
+*.vcd
+*.wdb
+
+# LaTeX build products
+*.aux
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.toc
+*.synctex.gz
+report.pdf
