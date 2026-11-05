@@ -107,9 +107,6 @@ The testbench overrides long real-time counters with short simulation values. It
 
 The provided XDC sets the 100 MHz clock and maps the buttons, LEDs, seven-segment segments, and anodes. A physical dehumidifier, humidity sensor, tank sensor, relay, and mains interface are outside this demonstrator's scope.
 
-## Report and evidence
-
-The academic report source is [`report.tex`](report.tex). It uses the supplied cover-page details and includes the requested circuit/schematic, methodology flowchart, FSM, relevant timing diagram, and photographs of the implemented Basys 3 demonstration.
 
 Compile the report from the project root with a LaTeX distribution (run twice to populate the table of contents):
 
